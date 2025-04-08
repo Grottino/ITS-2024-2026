@@ -1,0 +1,40 @@
+modello iso = modello concettuale che definisce il modo in cui le reti inviano i dati dal mittente al destinatario
+
+tpip= insieme di protocolly anche detto stack
+
+sopra il modello osi c'è l'utente
+
+oip = over ip
+ip = internet protocol
+url = Uniform Resource Locator
+dns = Domane Name Sistem
+server dns = 
+	1) E' un server che espone un servizio attraverso un protocollo applicativo dns e dato in input un nome, lui vi restituisce un indirizzo. Lo fa utilizzando le righe di trasporto. 
+	2) Applicativo che gira in loop "ascoltando" la rete se qualcuno ha bisogno di lui
+DGW = default gate away
+
+8.8.8.8 è il dns di google
+
+TCPIP
+   User
+  -Application
+  -Trans
+  -Net
+  -Net access (network e trasporto)  
+
+/24 = lavoro su 24 bit #255.255.255.0 ---> annotazione cdr
+/16 = lavoro su 16 bit #255.255.0.0 	//	 //
+
+primi 24 bit a 1
+
+192.168.0.17  #(17) è l'host id
+
+
+11111111.11111111.11111111.00000000 =  per il pc
+255.255.255.0 = network mask  #255.255.255. è il net id mentre 0 è l'host ma essendo 0 vuol dire che l'host è la rete
+
+ip è diviso in:
+	netwirk id e l'identificativo dell'host
+
+NETWORK MASK CALCULATOR
+

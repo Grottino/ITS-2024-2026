@@ -1,0 +1,20 @@
+/* Prima lettera del paragrafo */
+p:first-of-type::first-letter {
+    color: red;
+    font-size: 200%;
+  }
+  
+  /* Prima riga del paragrafo con classe quote */
+  .quote::first-line {
+    background-color: lightblue;
+  }
+  
+  /* ::before alla lista */
+  ul::before {
+    content: "sono un element che precede la lista";
+    display: block;
+    font-size: 12px;
+    color: orange;
+    margin-bottom: 5px;
+  }
+  

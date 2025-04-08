@@ -1,0 +1,14 @@
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\bin\Debug\net8.0\CalcoloCerchio.exe
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\bin\Debug\net8.0\CalcoloCerchio.deps.json
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\bin\Debug\net8.0\CalcoloCerchio.runtimeconfig.json
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\bin\Debug\net8.0\CalcoloCerchio.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\bin\Debug\net8.0\CalcoloCerchio.pdb
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.AssemblyInfo.cs
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\refint\CalcoloCerchio.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.pdb
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.genruntimeconfig.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\ref\CalcoloCerchio.dll

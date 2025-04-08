@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Scacchiera Interattiva</title>
+  <style>
+    table {
+      border-collapse: collapse;
+    }
+
+    td {
+      width: 20px;
+      height: 20px;
+    }
+
+    /* Celle nere */
+    tr:nth-child(even) td:nth-child(odd),
+    tr:nth-child(odd) td:nth-child(even) {
+      background-color: black;
+    }
+
+    /* Celle arancioni */
+    tr:nth-child(even) td:nth-child(even),
+    tr:nth-child(odd) td:nth-child(odd) {
+      background-color: orange;
+    }
+
+    /* Hover: cambia colore su passaggio del mouse */
+    tr:nth-child(even) td:nth-child(odd):hover,
+    tr:nth-child(odd) td:nth-child(even):hover {
+      background-color: purple;
+    }
+
+    tr:nth-child(even) td:nth-child(even):hover,
+    tr:nth-child(odd) td:nth-child(odd):hover {
+      background-color: aquamarine;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <!-- 8 righe con 8 colonne -->
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  </table>
+</body>
+</html>

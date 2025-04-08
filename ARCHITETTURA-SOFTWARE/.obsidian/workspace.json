@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "1cbd79e37d9bc660",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bdd00e1b27cb494",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf5b30971e35391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vacca/Architetture/Architetture e Infrastrutture Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architetture e Infrastrutture Software"
+            }
+          },
+          {
+            "id": "38e432e76620504b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vacca/Architetture/Architetture e Infrastrutture Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architetture e Infrastrutture Software"
+            }
+          },
+          {
+            "id": "a5fdeb7b7cd43791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vacca/Architetture/Architetture e Infrastrutture Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architetture e Infrastrutture Software"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65f73bbd562ae716",
+    "type": "split",
+    "children": [
+      {
+        "id": "a77c77073f162884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac33df5dbc8ebe12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "531dd6f57ed19336",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d202f41dae11330b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05a9b1bff8603552",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d3615020a568150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14de099c62e4182a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Architetture e Infrastrutture Software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Architetture e Infrastrutture Software"
+            }
+          },
+          {
+            "id": "318debc1bb6a3fea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Architetture e Infrastrutture Software.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Architetture e Infrastrutture Software"
+            }
+          },
+          {
+            "id": "cfeccc9b397c61c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8374f6768feaa432",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Architetture e Infrastrutture Software.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Architetture e Infrastrutture Software"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a5fdeb7b7cd43791",
+  "lastOpenFiles": [
+    "Vacca/Architetture/Architetture Hardware complesse.md",
+    "Vacca/Architetture/Fondamenti di Architetture software.md",
+    "Vacca/Architetture/Architetture e Infrastrutture Software.md",
+    "{45BDFC24-0309-4000-8EAC-7138C09CDA40}.png",
+    "{538EAADB-EE23-485D-81DF-330F1E300310}.png",
+    "{60D59709-107B-41DB-8F14-ECC97A6F889A}.png",
+    "Vacca/Linux/Linux 101 Grotta Alessandro.md",
+    "Vacca/Docker/Docker e come funziona.md",
+    "Vacca/Linux/Untitled",
+    "Vacca/Linux",
+    "Vacca/Docker",
+    "Vacca/Architetture",
+    "Vacca",
+    "Welcome.md"
+  ]
+}

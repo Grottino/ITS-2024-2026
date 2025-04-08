@@ -1,0 +1,10 @@
+se due persone vanno sullo stesso indirizzo:
+sono affacciato su internet tramite il mio indirizzo ip pubblico 
+isp= internet service provider(esempi: wind, tim, ecc), mi da dei provider che mi servono per andare su internet (ip) che è diverso dall'ip della macchina
+come fa a tornare il l'informazione alla mia macchina?
+-tramite l'ip del router e tramite il nat(è un routing che effettua una lista formata da una coppia= ip:porta) che è all'interno del router(una tabella che contiene informazioni dell'ip)
+il telefono ha un modem 4G/5G installato all'interno, quando ci si affida ad un isp viene assegnato un ip pubblico che ci permette di esporci su internet
+
+connesione ITSP:
+ip sorgente <--> porta sorgente
+ip destinatario <--> porta destinatario 

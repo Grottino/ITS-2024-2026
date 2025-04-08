@@ -1,0 +1,4 @@
+VPN
+crea una scheda di rete virtuale di nome tap solitamente, (creando una scheda di interfaccia ethernet)
+ci crea o ti viene dato un indirizzo ip che si collega direttamente ad un determinato luogo
+come se dalla mia macchina tirassi un cavo (ad esempio sono collegato all'its) fino alla struttura fisica dell'its e mi collegassi al pc.

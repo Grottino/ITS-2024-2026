@@ -1,0 +1,21 @@
+/* Link non visitato */
+a.my-link:link {
+    color: blue;
+  }
+  
+  /* Link già visitato */
+  a.my-link:visited {
+    color: purple;
+  }
+  
+  /* Link mentre il mouse ci passa sopra */
+  a.my-link:hover {
+    color: red;
+    font-size: 20px;
+  }
+  
+  /* Link mentre viene cliccato */
+  a.my-link:active {
+    color: orange;
+  }
+  

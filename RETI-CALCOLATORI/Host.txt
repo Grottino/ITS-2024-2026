@@ -1,0 +1,20 @@
+In un sistema di reti di calcolatori, per diventare un host e comunicare con altri dispositivi, un computer o un dispositivo deve essere configurato correttamente. Ecco le principali configurazioni necessarie:
+
+ 1. Indirizzamento IP
+   - Ogni host deve avere un indirizzo IP univoco nella rete.
+   - L’indirizzo IP può essere statico (configurato manualmente) o dinamico (assegnato da un server DHCP).
+
+ 2. Subnet Mask
+   - Definisce l’intervallo degli indirizzi IP appartenenti alla stessa rete.
+   - Esempio: `255.255.255.0` indica che i primi tre ottetti definiscono la rete.
+
+ 3. Gateway Predefinito
+   - È l’indirizzo del router che consente all'host di comunicare con dispositivi al di fuori della rete locale.
+   - Esempio: se la rete è `192.168.1.0/24`, il gateway potrebbe essere `192.168.1.1`.
+
+ 4. DNS (Domain Name System)
+   - Server DNS per risolvere i nomi di dominio in indirizzi IP.
+   - Esempio: Google DNS (`8.8.8.8`, `8.8.4.4`) o server DNS dell'ISP.
+
+7. Nome Host (Hostname)
+   - Ogni dispositivo deve avere un nome univoco nella rete per una gestione più semplice.

@@ -1,0 +1,14 @@
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\bin\Debug\net8.0\areaQuadrati.exe
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\bin\Debug\net8.0\areaQuadrati.deps.json
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\bin\Debug\net8.0\areaQuadrati.runtimeconfig.json
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\bin\Debug\net8.0\areaQuadrati.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\bin\Debug\net8.0\areaQuadrati.pdb
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\obj\Debug\net8.0\areaQuadrati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\obj\Debug\net8.0\areaQuadrati.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\obj\Debug\net8.0\areaQuadrati.AssemblyInfo.cs
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\obj\Debug\net8.0\areaQuadrati.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\obj\Debug\net8.0\areaQuadrati.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\obj\Debug\net8.0\refint\areaQuadrati.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\obj\Debug\net8.0\areaQuadrati.pdb
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\obj\Debug\net8.0\areaQuadrati.genruntimeconfig.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\areaQuadrati\areaQuadrati\obj\Debug\net8.0\ref\areaQuadrati.dll

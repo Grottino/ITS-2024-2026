@@ -1,0 +1,14 @@
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\bin\Debug\net8.0\PrezzoQuantità.exe
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\bin\Debug\net8.0\PrezzoQuantità.deps.json
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\bin\Debug\net8.0\PrezzoQuantità.runtimeconfig.json
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\bin\Debug\net8.0\PrezzoQuantità.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\bin\Debug\net8.0\PrezzoQuantità.pdb
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\obj\Debug\net8.0\PrezzoQuantità.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\obj\Debug\net8.0\PrezzoQuantità.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\obj\Debug\net8.0\PrezzoQuantità.AssemblyInfo.cs
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\obj\Debug\net8.0\PrezzoQuantità.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\obj\Debug\net8.0\PrezzoQuantità.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\obj\Debug\net8.0\refint\PrezzoQuantità.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\obj\Debug\net8.0\PrezzoQuantità.pdb
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\obj\Debug\net8.0\PrezzoQuantità.genruntimeconfig.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\PrezzoQuantità\PrezzoQuantità\obj\Debug\net8.0\ref\PrezzoQuantità.dll

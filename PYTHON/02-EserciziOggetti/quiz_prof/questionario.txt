@@ -1,0 +1,12 @@
+nome:arg
+Età:30
+Altezza:3.0
+Matrimonio:True
+Materie:['pro']
+
+nome:atr
+Età:20
+Altezza:1.9
+Matrimonio:False
+Materie:['al', 'ab']
+

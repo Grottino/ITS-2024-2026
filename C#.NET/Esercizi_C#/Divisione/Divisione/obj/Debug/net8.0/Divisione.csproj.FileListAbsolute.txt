@@ -1,0 +1,14 @@
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\bin\Debug\net8.0\Divisione.exe
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\bin\Debug\net8.0\Divisione.deps.json
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\bin\Debug\net8.0\Divisione.runtimeconfig.json
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\bin\Debug\net8.0\Divisione.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\bin\Debug\net8.0\Divisione.pdb
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\obj\Debug\net8.0\Divisione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\obj\Debug\net8.0\Divisione.AssemblyInfoInputs.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\obj\Debug\net8.0\Divisione.AssemblyInfo.cs
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\obj\Debug\net8.0\Divisione.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\obj\Debug\net8.0\Divisione.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\obj\Debug\net8.0\refint\Divisione.dll
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\obj\Debug\net8.0\Divisione.pdb
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\obj\Debug\net8.0\Divisione.genruntimeconfig.cache
+C:\Users\Alessandro.Grotta\Desktop\ITS2025_SWD\C#.NET\Esercizi_C#\Divisione\Divisione\obj\Debug\net8.0\ref\Divisione.dll
